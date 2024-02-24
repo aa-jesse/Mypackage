@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: Mypackage
+Version: 0.1
+Summary: EDSA example python package
+Author: jesse akowuah
+Author-email: akowuahadujesse@gmail.com
+License: RIT
+
+# Mypackage
+this library was created as an example of how publish our own python package
